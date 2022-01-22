@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LucasHimura
-- 👀 I’m interested in learn
+- 👋 Hi, I’m @LucasQuipildorPortillo
+- 👀 I’m interested in learn Desarrollo de Aplicaciones 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @gonzalo_alvarez38
+
 
 <!---
 LucasHimura/LucasHimura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
